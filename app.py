@@ -168,7 +168,7 @@ tr td .bar{display:inline-block;height:6px;background:var(--accent);border-radiu
 .dim{color:var(--dim)}
 </style></head><body><a href="/manual" target="_blank" title="Manual / Help" style="position:fixed;top:12px;right:14px;z-index:99999;width:30px;height:30px;border-radius:50%;background:#161b22;border:1px solid #30363d;color:#58a6ff;font:700 16px/30px system-ui,sans-serif;text-align:center;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.4)" onmouseover="this.style.borderColor='#58a6ff'" onmouseout="this.style.borderColor='#30363d'">?</a>
 <header>
-  <h1>SOC-NIDS <small>Network IDS · Suricata</small></h1>
+  <h1>SOC NIDS <small>Network IDS · Suricata</small></h1>
   <div class="meta" id="meta">connecting…</div>
 </header>
 <div class="wrap">
