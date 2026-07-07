@@ -144,7 +144,7 @@ PAGE = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Soc-Nids — Network IDS</title><style>
-:root{--bg:#070b12;--panel:#0f1622;--bd:#1d2a3a;--txt:#c9d6e5;--dim:#6f8199;--accent:#00e0c7;--crit:#ff3860;--hi:#ff8c00;--med:#ffd166}
+:root{--bg:#0d1117;--panel:#161b22;--bd:#30363d;--txt:#e6edf3;--dim:#8b949e;--accent:#58a6ff;--crit:#f85149;--hi:#f0883e;--med:#d29922}
 *{box-sizing:border-box}body{margin:0;font-family:'JetBrains Mono',ui-monospace,monospace;background:var(--bg);color:var(--txt)}
 header{display:flex;align-items:center;justify-content:space-between;padding:14px 22px;border-bottom:1px solid var(--bd);background:var(--panel)}
 h1{margin:0;font-size:18px;letter-spacing:1px;color:var(--accent)}
