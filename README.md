@@ -41,3 +41,8 @@ promiscuous mode). Set `NIDS_IFACE` accordingly.
 ## License
 Wrapper: MIT (see `LICENSE`). Suricata is GPLv2 and runs as an independent process —
 no linkage, no copyleft obligation on this wrapper.
+
+
+## Documentation
+
+See **[MANUAL.md](MANUAL.md)** for the full manual (overview, configuration, endpoints, integration, troubleshooting). In the running dashboard, click the **`?` Help button** in the top-right corner to open it at `/manual`.
