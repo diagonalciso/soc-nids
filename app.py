@@ -143,7 +143,7 @@ def _recent(n=100):
 PAGE = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SOC NIDS — Network IDS</title><style>
+<title>SOC NIDS — Network IDS</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>"><style>
 :root{--bg:#0d1117;--panel:#161b22;--bd:#30363d;--txt:#e6edf3;--dim:#8b949e;--accent:#58a6ff;--crit:#f85149;--hi:#f0883e;--med:#d29922}
 *{box-sizing:border-box}body{margin:0;font-family:'JetBrains Mono',ui-monospace,monospace;background:var(--bg);color:var(--txt)}
 header{display:flex;align-items:center;justify-content:space-between;padding:14px 22px;border-bottom:1px solid var(--bd);background:var(--panel)}
@@ -301,7 +301,7 @@ def _md_to_html(md):
 def _manual_page(inner):
     return ("""<!DOCTYPE html><html><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>Manual</title><style>
+<title>Manual</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>"><style>
 :root{--bg:#0d1117;--sf:#161b22;--bd:#30363d;--tx:#e6edf3;--mut:#8b949e;--ac:#58a6ff}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);
 font:15px/1.65 -apple-system,Segoe UI,Roboto,sans-serif}
