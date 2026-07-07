@@ -143,7 +143,7 @@ def _recent(n=100):
 PAGE = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Soc-Nids — Network IDS</title><style>
+<title>SOC NIDS — Network IDS</title><style>
 :root{--bg:#0d1117;--panel:#161b22;--bd:#30363d;--txt:#e6edf3;--dim:#8b949e;--accent:#58a6ff;--crit:#f85149;--hi:#f0883e;--med:#d29922}
 *{box-sizing:border-box}body{margin:0;font-family:'JetBrains Mono',ui-monospace,monospace;background:var(--bg);color:var(--txt)}
 header{display:flex;align-items:center;justify-content:space-between;padding:14px 22px;border-bottom:1px solid var(--bd);background:var(--panel)}
