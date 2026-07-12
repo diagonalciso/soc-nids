@@ -1,5 +1,7 @@
 # soc-nids — Network IDS dashboard
 
+> Suricata network intrusion detection (NIDS) dashboard — self-hosted, stdlib Python.
+
 Network intrusion detection for the SOC suite. Wraps **Suricata** (the IDS engine)
 and gives the SOC a network-visibility pane — Wazuh alone is host-based (HIDS) and
 sees nothing on the wire.
